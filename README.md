@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom?&text=Hello,%I%am%Jeein%Yang)
+![header](https://capsule-render.vercel.app/api?type=venom?&text=Hi,%20I%20am%20Jeein%20Yang)
 
 
 <!--
