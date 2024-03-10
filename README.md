@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom?&text=Hi,%20I%20am%20Jeein%20Yang)
 
 
+## ⚒️Tech Stack⚒️
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+
 <!--
 **wldlsyy/wldlsyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
