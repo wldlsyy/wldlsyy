@@ -4,6 +4,11 @@
 ## <p align="center">⚒️Tech Stack⚒️</p>
 <p align="center">
     <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=C++&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white"/><br>
+    <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Python&logoColor=white"/>
 
 </p>
 
