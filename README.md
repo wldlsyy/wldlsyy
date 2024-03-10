@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom?&text=Hi,%20I%20am%20Jeein%20Yang)
 
 
-## ⚒️Tech Stack⚒️
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+## <p align="center">⚒️Tech Stack⚒️</p>
+<p align="center">
+    <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
+
+</p>
 
 
 <!--
