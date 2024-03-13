@@ -11,8 +11,6 @@
     <img src ="https://img.shields.io/badge/QGIS-589632.svg?&style=flat&logo=qgis&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Tableau&logoColor=white"/>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldlsyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
 
 
