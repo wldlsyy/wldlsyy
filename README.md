@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom?&text=Hi,%20I%20am%20Jeein%20Yang)
 
 
-## <p align="center">⚒️Tech Stack⚒️</p>
+<p align="center">⚒️Tech Stack⚒️</p>
 <p align="center">
     <img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
     <img src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=C&logoColor=white"/>
@@ -11,9 +11,10 @@
     <img src ="https://img.shields.io/badge/QGIS-589632.svg?&style=flat&logo=qgis&logoColor=white"/>
     <img src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat&logo=Tableau&logoColor=white"/>
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldlsyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldlsyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wldlsyy/wldlsyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
