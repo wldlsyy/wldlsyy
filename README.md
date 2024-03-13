@@ -13,9 +13,7 @@
 
 </p>
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldlsyy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldlsyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wldlsyy/wldlsyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
