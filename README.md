@@ -20,13 +20,19 @@ developing **in-house LLM solutions** and automation services for enterprise env
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0B6E99?style=flat&logo=graph&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-0B6E99?style=flat&logo=graph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-FF9900?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=MicrosoftEdge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=QGIS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=MicrosoftEdge&logoColor=white"/>
 </p>
 
 ---
@@ -42,7 +48,7 @@ developing **in-house LLM solutions** and automation services for enterprise env
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wldlsyy&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldlsyy&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wldlsyy&theme=tokyonight" height="165"/>
 </p>
 
 ---
